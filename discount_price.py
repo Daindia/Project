@@ -46,3 +46,5 @@ elif age >= 18 and statues == 'e':
     discount = overall_price * (37/100)
     print('Your price is: ', (overall_price - discount))
 
+print('Payement complete!')
+
