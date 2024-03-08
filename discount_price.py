@@ -43,7 +43,7 @@ elif age > 18 and statues == 'u':
 # run code when user is over 18 & employed
 elif age >= 18 and statues == 'e':
     print('10 percent discount')
-    discount = overall_price * (37/100)
+    discount = overall_price * (10/100)
     print('Your price is: ', (overall_price - discount))
 
 print('Payement complete!')
